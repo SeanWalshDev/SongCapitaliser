@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text size -->
+    <dimen name="five_sp">5sp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="twenty_five_sp">25sp</dimen>
+    <dimen name="thirty_sp">30sp</dimen>
+    <dimen name="thirty_five_sp">35sp</dimen>
+    <dimen name="forty_sp">40sp</dimen>
+    <dimen name="sixty_sp">60sp</dimen>
+
+    <!-- General size -->
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="forty_dp">40dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+
+</resources>

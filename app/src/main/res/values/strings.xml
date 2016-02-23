@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">SongCapitaliser</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Song Capitaliser</string>
 </resources>
